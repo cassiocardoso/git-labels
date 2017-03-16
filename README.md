@@ -14,3 +14,4 @@ Automating the label creation process using [github-label](https://github.com/co
 ## Labels
 
 - Labels are grouped by theme in each of the JSON files
+- Check [labels](https://github.com/cassiocardoso/git-labels/labels) to see the result
