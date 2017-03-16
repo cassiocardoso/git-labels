@@ -1,0 +1,22 @@
+[
+  {
+    "name": "add: feature",
+    "color": "ec3650"
+  },
+  {
+    "name": "add: enhancement",
+    "color": "ea4a6a"
+  },
+  {
+    "name": "add: optimization",
+    "color": "ef6d8a"
+  },
+  {
+    "name": "add: discussion",
+    "color": "f299ac"
+  },
+  {
+    "name": "add: question",
+    "color": "f7c4cd"
+  }
+]

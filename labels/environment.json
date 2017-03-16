@@ -1,0 +1,18 @@
+[
+  {
+    "name": "env: production",
+    "color": "31719b"
+  },
+  {
+    "name": "env: beta/next",
+    "color": "5d8ab0"
+  },
+  {
+    "name": "env: dev",
+    "color": "6ea0c3"
+  },
+  {
+    "name": "env: test",
+    "color": "8ac5da"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prob: bug",
+    "color": "a93029"
+  },
+  {
+    "name": "prob: security",
+    "color": "bc362f"
+  },
+  {
+    "name": "prob: performance",
+    "color": "ec453c"
+  },
+  {
+    "name": "prob: seo",
+    "color": "ed635e"
+  }
+]

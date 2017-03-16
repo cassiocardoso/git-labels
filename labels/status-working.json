@@ -1,0 +1,22 @@
+[
+  {
+    "name": "status: done",
+    "color": "3f9388"
+  },
+  {
+    "name": "status: deployed",
+    "color": "56a89f"
+  },
+  {
+    "name": "status: under review",
+    "color": "7abdb6"
+  },
+  {
+    "name": "status: testing",
+    "color": "a4d3ce"
+  },
+  {
+    "name": "status: in progress",
+    "color": "d1e9e7"
+  }
+]

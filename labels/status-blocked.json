@@ -1,0 +1,14 @@
+[
+  {
+    "name": "status: on hold",
+    "color": "e5b954"
+  },
+  {
+    "name": "status: help wanted",
+    "color": "f5d555"
+  },
+  {
+    "name": "status: idea",
+    "color": "f5dc9c"
+  }
+]
