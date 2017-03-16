@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # set your repo address
-GITHUB_REPO="cassiocardoso/git-label-test"
+GITHUB_REPO="cassiocardoso/git-labels"
 
 # clean repo labels
 github-label $GITHUB_REPO -R
